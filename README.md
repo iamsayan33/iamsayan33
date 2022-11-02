@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @iamsayan33
+- 👋 Hi, I’m Sayan Das
 - 👀 I’m interested in Full Stack Web Development
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on Web Projects
